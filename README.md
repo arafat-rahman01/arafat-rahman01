@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arafat
+#  Hi, I'm Arafat
 
 🎓 A 2nd-year Computer Science student at **Chandpur Science and Technology University**  
 👨‍💻 Passionate about **problem solving**, **C++**, and **algorithms**  
