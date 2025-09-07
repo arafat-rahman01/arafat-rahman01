@@ -31,9 +31,9 @@
 ---
 
 ### 🧠 Codeforces
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Arafat_Rahman_CSE_CSTU)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Arafat_Rahman_CSE_CSTU&theme=dark)
 
----
+
 
 
 ## 🛠️ Projects
