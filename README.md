@@ -30,6 +30,12 @@
 
 ---
 
+### 🧠 Codeforces
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Arafat_Rahman_CSE_CSTU)
+
+---
+
+
 ## 🛠️ Projects
 
 - 🎯 **AlgoVisualizer** – C++ project to visualize sorting/searching algorithms *(OOP-based)*
