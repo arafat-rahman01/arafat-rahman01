@@ -9,17 +9,19 @@
 
 ## 🚀 Skills & Tools
 
-- 💻 Programming: `C++`, `Python`, `C`
+- 💻 Programming: `C++`, `Python`, `C` ,`java`
 - 🌐 Web: `HTML`, `CSS`, `JavaScript (basic)`
 - 🧠 CS Topics: `Data Structures`, `Algorithms`, `OOP`, `DBMS`
 - 🔧 Tools: `Git`, `VS Code`, `Linux`, `Figma (basic)`
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![Arafat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafat-rahman01&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-rahman01&layout=compact&theme=radical)
+![Arafat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafat-rahman01&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-rahman01&layout=compact&theme=radical&hide=html)
+
 
 ---
 
