@@ -1,6 +1,6 @@
 #  Hi, I'm Arafat
 
-🎓 A 2nd-year Computer Science student at **Chandpur Science and Technology University**  
+🎓 A 3rd-year Computer Science student at **Chandpur Science and Technology University**  
 👨‍💻 Passionate about **problem solving**, **C++**, and **algorithms**  
 📚 Currently learning **Data Structures & Algorithms**, **OOP**, and **Web Development**  
 🔍 Exploring opportunities in **freelancing**, **open-source**, and **tech communities**
@@ -57,9 +57,8 @@
 
 ## 📫 Let's Connect
 
-- 💼 [Upwork Profile](https://www.upwork.com/)
-- 📧 Email: your-email@example.com
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 Email: aabrarbin851@gmail.com
+- 🔗 [LinkedIn] https://www.linkedin.com/in/arafat-rahman01/
 - 🌐 [Portfolio](https://your-portfolio-site.com)
 
 ---
