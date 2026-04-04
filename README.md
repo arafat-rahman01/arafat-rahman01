@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arafat-rahman01&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-rahman01&layout=compact&theme=tokyonight&hide=html" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-rahman01&layout=compact&theme=tokyonight" />
 </p>
 
 ---
