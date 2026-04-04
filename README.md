@@ -9,8 +9,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=arafat-rahman01&color=blue)
 
 ---
-##GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=arafat-rahman01&theme=dark)
+## GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=arafat-rahman01&theme=tokyonight)
 
 ---
 
