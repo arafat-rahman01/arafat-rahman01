@@ -6,6 +6,9 @@
 🔍 Exploring opportunities in **freelancing**, **open-source**, and **tech communities**
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=arafat-rahman01&color=blue)
+
+---
 
 ## 🚀 Skills & Tools
 
