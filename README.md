@@ -23,6 +23,11 @@
 
 ---
 
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,cpp,java" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
