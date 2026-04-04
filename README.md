@@ -1,78 +1,111 @@
-#  Hi, I'm Arafat
+# 👋 Hi, I'm Arafat
 
-🎓 A 3rd-year Computer Science student at **Chandpur Science and Technology University**  
-👨‍💻 Passionate about **problem solving**, **C++**, and **algorithms**  
-📚 Currently learning **Data Structures & Algorithms**, **OOP**, and **Web Development**  
-🔍 Exploring opportunities in **freelancing**, **open-source**, and **tech communities**
-
----
-![Profile views](https://komarev.com/ghpvc/?username=arafat-rahman01&color=blue)
-
----
-## GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=arafat-rahman01&theme=tokyonight)
+🎓 3rd-year CSE student at **Chandpur Science and Technology University**
+💻 Passionate about **Problem Solving, Algorithms & Backend Development**
+🚀 Focused on becoming a **Skilled Software Engineer**
+🌱 Currently exploring **MERN Stack & Advanced DSA**
 
 ---
 
-## 🚀 Skills & Tools
-
-- 💻 Programming: `C++`, `Python`, `C` ,`java`
-- 🌐 Web: `HTML`, `CSS`, `JavaScript (basic)`
-- 🧠 CS Topics: `Data Structures`, `Algorithms`, `OOP`, `DBMS`
-- 🔧 Tools: `Git`, `VS Code`, `Linux`, `Figma (basic)`
-
----
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,cpp,java" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arafat-rahman01&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Overview
 
-![Arafat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafat-rahman01&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-rahman01&layout=compact&theme=radical&hide=html)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arafat-rahman01&theme=tokyonight" />
+</p>
 
-
----
-
-## 🧩 Competitive Programming
-
-### 🧠 LeetCode  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/aabrarbin851?theme=dark&font=Karma)](https://leetcode.com/aabrarbin851)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arafat-rahman01&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafat-rahman01&layout=compact&theme=tokyonight&hide=html" />
+</p>
 
 ---
 
-### 🧠 Codeforces
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Arafat_Rahman_CSE_CSTU&theme=dark)
+## 🚀 Tech Stack
 
+### 💻 Languages
 
+`C++` `Java` `Python` `C`
 
+### 🌐 Web Development
 
-## 🛠️ Projects
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js`
 
-- 🎯 **AlgoVisualizer** – C++ project to visualize sorting/searching algorithms *(OOP-based)*
-- 📚 **Student Record System** – CLI app using file handling & classes
-- 🖼️ **Portfolio Website** – Simple HTML/CSS personal portfolio
+### 🧠 Core CS
 
-> More coming soon!
+`Data Structures` `Algorithms` `OOP` `DBMS`
+
+### ⚙️ Tools & Technologies
+
+`Git` `GitHub` `VS Code` `Linux` `Figma`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,nodejs,express,mongodb,git,linux,vscode" />
+</p>
+
+---
+
+## 🧠 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/aabrarbin851">
+    <img src="https://leetcard.jacoblin.cool/aabrarbin851?theme=dark&font=Karma" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Arafat_Rahman_CSE_CSTU&theme=dark" />
+</p>
+
+---
+
+## 🛠️ Featured Projects
+
+🔹 **AlgoVisualizer**
+→ Visualizes sorting & searching algorithms (OOP + C++)
+
+🔹 **Student Record System**
+→ CLI-based system using file handling & classes
+
+🔹 **Portfolio Website**
+→ Personal responsive portfolio using HTML & CSS
+
+🚧 More advanced projects coming soon...
 
 ---
 
 ## 🌱 Currently Learning
 
-- `React.js`, `Tailwind CSS`
-- Advanced problem solving (LeetCode & Codeforces)
+* ⚛️ `React.js` & modern frontend
+* 🎨 `Tailwind CSS`
+* 🧠 Advanced **DSA (LeetCode + Codeforces)**
+* ⚙️ Backend system design basics
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
-- 📧 Email: aabrarbin851@gmail.com
-- 🔗 [LinkedIn] https://www.linkedin.com/in/arafat-rahman01/
-- 🌐 [Portfolio](https://your-portfolio-site.com)
+<p align="center">
+  <a href="mailto:aabrarbin851@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arafat-rahman01/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+## 💡 Quote
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
+
