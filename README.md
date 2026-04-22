@@ -32,13 +32,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/arafat-rahman01/arafat-rahman01/blob/output/github-contribution-grid-snake.svg)
-
-> ⚠️ Snake appears after GitHub Actions run (first time manual run in Actions tab)
-
----
 
 ## 🚀 Tech Stack & Badges
 
